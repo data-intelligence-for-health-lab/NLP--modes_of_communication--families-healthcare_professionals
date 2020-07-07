@@ -3,20 +3,20 @@ Natural language processing to measure communication between healthcare professi
 
 
 
-Files
+<b>Files</b>
 
-01_webscraper.py: webscraper used to collect people's names from the internet
+<b>01_webscraper.py</b>: webscraper used to collect people's names from the internet
 
-02_pre-processing.py: it includes all pre-processing and dataset construction methods
+<b>02_pre-processing.py</b>: it includes all pre-processing and dataset construction methods
 
-03_ML_approach_part1.py: stratified 10-fold cross-validation grid search for machine learning (logistic regression, support vector machine, random forest and adaptive boosting)
+<b>03_ML_approach_part1.py</b>: stratified 10-fold cross-validation grid search for machine learning (logistic regression, support vector machine, random forest and adaptive boosting)
 
-04_ML_approach_part2.py: stratified 10-fold cross-validation grid search for machine learning (neural network)
+<b>04_ML_approach_part2.py</b>: stratified 10-fold cross-validation grid search for machine learning (neural network)
 
-05_ML_approach_summary.py: it combines results from parts one and two and summarizes the best performing methods
+<b>05_ML_approach_summary.py</b>: it combines results from parts one and two and summarizes the best performing methods
 
-06_RBC_approach.py: rule based classifier approach
+<b>06_RBC_approach.py</b>: rule based classifier approach
 
-auxiliar_data.xlsx: includes auxiliar information used by Python files
+<b>auxiliar_data.xlsx</b>: includes auxiliar information used by Python files
 
-input_file.xlsx: shows an example of how the input file should be structured in order to be used with the Python files
+<b>input_file.xlsx</b>: shows an example of how the input file should be structured in order to be used with the Python files
